@@ -6,6 +6,7 @@ gem 'ruboty'
 gem 'ruboty-shinchoku'
 gem 'ruboty-twada'
 gem 'ruboty-response'
+gem 'ruboty-zoi'
 
 group :production do
   gem 'ruboty-slack'
