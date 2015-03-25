@@ -7,6 +7,7 @@ gem 'ruboty-shinchoku'
 gem 'ruboty-twada'
 gem 'ruboty-response'
 gem 'ruboty-zoi'
+gem 'ruboty-japan_weather'
 
 group :production do
   gem 'ruboty-slack'
