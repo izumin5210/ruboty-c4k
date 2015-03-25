@@ -32,6 +32,8 @@ GEM
       redis
       redis-namespace
       ruboty
+    ruboty-response (1.0.2)
+      ruboty
     ruboty-shinchoku (0.0.1)
       ruboty
       tumblr-random_image
@@ -64,6 +66,7 @@ PLATFORMS
 DEPENDENCIES
   ruboty
   ruboty-redis
+  ruboty-response
   ruboty-shinchoku
   ruboty-slack
   ruboty-twada
