@@ -8,6 +8,8 @@ gem 'ruboty-twada'
 gem 'ruboty-response'
 gem 'ruboty-zoi'
 gem 'ruboty-japan_weather'
+gem 'ruboty-echo'
+gem 'ruboty-alias'
 
 group :production do
   gem 'ruboty-slack'

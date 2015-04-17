@@ -33,6 +33,10 @@ GEM
       dotenv
       mem
       slop
+    ruboty-alias (0.0.7)
+      ruboty (>= 1.1.1)
+    ruboty-echo (0.1.0)
+      ruboty
     ruboty-japan_weather (0.0.4)
       ruboty
       weather_jp
@@ -80,6 +84,8 @@ PLATFORMS
 
 DEPENDENCIES
   ruboty
+  ruboty-alias
+  ruboty-echo
   ruboty-japan_weather
   ruboty-redis
   ruboty-response
